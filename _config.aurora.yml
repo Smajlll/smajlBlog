@@ -9,13 +9,13 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
+  subtitle: Smajlovo Blog
+  author: Vít Smolík
+  nick: Smajl
   description:
   link: '/'
   language: en
-  multi_language: true
+  multi_language: false
   logo:
   avatar:
   beian:
@@ -110,7 +110,7 @@ site_meta:
 
 # For local development only!
 gitalk:
-  enable: true
+  enable: false
   autoExpand: true
   clientID: ''
   clientSecret: ''
